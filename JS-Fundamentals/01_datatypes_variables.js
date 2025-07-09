@@ -26,4 +26,3 @@ console.log(firstName,lastName)
 //print :I"good mornig siddhant ahirwar!"
 console.log("good mornig",firstName,lastName,"!")
 console.log("hi, my name is",firstName,"and my age is",age,".");
-

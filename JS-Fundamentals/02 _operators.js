@@ -77,4 +77,22 @@ console.log(d == e); // false
 console.log(d > e); // true
 console.log(d >= e); // true
 console.log(d <= e); // false
-console.log(d != e); // true
+
+
+
+
+
+
+const fruits = [];
+fruits.push("banana", "apple", "peach");
+console.log(fruits.length); 
+
+
+// initialize variable i
+let i = 1;
+
+// loop runs until i is less than 4
+while (i < 4) {
+    console.log(i);
+    i += 1;
+}
